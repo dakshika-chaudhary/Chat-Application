@@ -1,0 +1,16 @@
+{
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "description": "A chat application built with the MERN stack",
+  "scripts": {
+    "start": "node server/index.js", 
+    "dev": "concurrently \"npm run dev --prefix chat-app\" \"npm run start --prefix server\"",
+    "install": "npm install --prefix chat-app && npm install --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.5.0"
+  }
+}
