@@ -70,3 +70,4 @@ Authentication: JSON Web Tokens (JWT)
 Contributing
 
 ![Screenshot (55)](https://github.com/user-attachments/assets/59e1965d-a7e2-4dd4-a4c8-93c7c4899a70)
+![Screenshot (49)](https://github.com/user-attachments/assets/b789d8fd-6259-4b9b-a557-cb648490808d)
