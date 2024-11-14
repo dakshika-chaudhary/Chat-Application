@@ -68,3 +68,5 @@ Backend: Node.js, Express, MongoDB
 Real-Time Communication: Socket.IO
 Authentication: JSON Web Tokens (JWT)
 Contributing
+
+![Screenshot (55)](https://github.com/user-attachments/assets/59e1965d-a7e2-4dd4-a4c8-93c7c4899a70)
