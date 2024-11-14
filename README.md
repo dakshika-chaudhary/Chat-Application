@@ -1,5 +1,7 @@
 # Chit-Chatter
 
+![Screenshot (55)](https://github.com/user-attachments/assets/59e1965d-a7e2-4dd4-a4c8-93c7c4899a70)
+
 Chit-Chatter is a modern chat application designed for seamless and instant communication between users. Built with Next.js, Tailwind CSS, Node.js, and Socket.IO, Chit-Chatter offers real-time messaging features with both individual and group chat capabilities.
 
 ## Features
@@ -69,6 +71,6 @@ Real-Time Communication: Socket.IO
 Authentication: JSON Web Tokens (JWT)
 Contributing
 
-![Screenshot (55)](https://github.com/user-attachments/assets/59e1965d-a7e2-4dd4-a4c8-93c7c4899a70)
+
 ![Screenshot (49)](https://github.com/user-attachments/assets/b789d8fd-6259-4b9b-a557-cb648490808d)
 ![Screenshot (53)](https://github.com/user-attachments/assets/feafcea8-ec37-440b-961c-3b3a6f5cfe5b)
